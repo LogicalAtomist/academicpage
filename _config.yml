@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Landon D. C. Elkind"
+title                    : "Howdy!"
 title_separator          : "-"
 name                     : &name "Landon D. C. Elkind"
 description              : &description "Kentucky's resident logical atomist"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Bowling Green, Kentucky, U.S.A."
   employer         : "Western Kentucky University"
   uri              : "https://www.principiarewrite.com/"
-  email            : "landon [dot] elkind [at] wku [dot] edu" 
+  email            : "landon.elkind@wku.edu" 
 
   # Academic websites
   academia         : # URL
@@ -83,7 +83,6 @@ author:
   zhihu            : # Username
   philpapers       : "https://philpeople.org/profiles/landon-d-c-elkind"
   librivox         : "https://librivox.org/reader/9738"
-  mastodon         : "https://scholar.social/@LogicalAtomist"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -110,7 +109,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
