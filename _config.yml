@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Howdy!"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Landon D. C. Elkind"
 description              : &description "Kentucky's resident logical atomist"   # Update this with a general description of your site, this is the default if not overridden by a page
