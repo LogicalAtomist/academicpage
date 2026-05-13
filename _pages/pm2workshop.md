@@ -5,9 +5,25 @@ excerpt:
 author_profile: false
 redirect_from: 
 ---
-aa
+This June 8-11, 2026, alongside Alexander Klein at the Bertrand Russell Research Centre, I am organizing a workshop around *Principia Mathematica* by Alfred North Whitehead and Bertrand Russell. This will mark 100 years since the second edition of *Principia* was published (Vol. I 1925, Vols. II-III 1927). The second edition was chiefly Russell's project, though many personalities surrounded the labor (e.g. Dorothy Wrinch, Ludwig Wittgenstein, Frank Ramsey, Leon Chwistek, and Rudolf Carnap).
 
-##Support
+The workshop schedule and invited speakers are below. Those interested in participating in the upcoming workshop should register in advance here: 
+
+## Invited Speakers and Schedule
+
+- Landon D. C. Elkind (organizer)
+- Giulia Felappi
+- Kevin Klement
+- Gregory Landini
+- James Levine
+- Bernard Linsky
+- Gülberk Koç Maclean
+- Graham Stevens
+- Russell Wahl
+
+## Call for Contributed Papers
+
+## Support
 
 The Principia Mathematica Maps and Table Site (PM-MATS) project has been made possible in part by a major grant from the National Endowment for the Humanities. Any views, findings, conclusions, or recommendations expressed in this publication do not necessarily reflect those of the National Endowment for the Humanities.
 
