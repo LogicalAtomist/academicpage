@@ -7,7 +7,7 @@ redirect_from:
 ---
 This June 8-11, 2026, alongside Alexander Klein at the Bertrand Russell Research Centre, I am organizing a workshop around *Principia Mathematica* by Alfred North Whitehead and Bertrand Russell. This will mark 100 years since the second edition of *Principia* was published (Vol. I 1925, Vols. II-III 1927). The second edition was chiefly Russell's project, though many personalities surrounded the labor (e.g. Dorothy Wrinch, Ludwig Wittgenstein, Frank Ramsey, Leon Chwistek, and Rudolf Carnap).
 
-The workshop schedule and invited speakers are below. Those interested in participating in the upcoming workshop should register in advance here: 
+The workshop schedule and invited speakers are below. To participate in the PM2 workshop as a discussant, [register in advance here](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=8rznMdj6bEeKJE5fMzFc-5UoymnNRU1Gtn8SdniGXGFUNFg1MVhZTFhFSUxESkJZTlI5MFNPREZBWC4u).
 
 ## Invited Speakers and Schedule
 
@@ -23,12 +23,13 @@ The workshop schedule and invited speakers are below. Those interested in partic
 
 **Mon. 8 June**: Welcome receiption
 
-| *Room TBA* | Tues. 9 June  | Wed. 10 June  | Thurs. 11 June |
-|----------- | -----------   | -----------   | -----------    |
-| 8:30  am   | Wahl          | Linksy        | Klement        |
-| 9:30  am   | Stevens       | Levine        | Felappi        |
-| 10:30 am   | Maclean       | Landini       | Elkind         |
-| 1-4 pm     | Archival time | Archival time | Archival time  |
+| *Room TBA* | Tues. 9 June     | Wed. 10 June    | Thurs. 11 June  |
+|----------- | -----------      | -----------     | -----------     |
+| 8:30  am   | Wahl             | Linksy          | Klement         |
+| 9:30  am   | Stevens          | Levine          | Felappi         |
+| 10:30 am   | Maclean          | Landini         | Elkind          |
+| 10:30 am   | *Lunch*          | *Lunch*         | *Lunch*         |
+| 1-4 pm     | *Archives times* | *Archives time* | *Archives time* |
 
 **Closing, Thurs. 11 June**: There will be a reception to close the PM2 workshop and also to open the [2026 Bertrand Russell Society Meeting](https://bertrandrussellsociety.org/2026-brs-annual-meeting-abstracts/) happening immediately after the workshop. [Register for that meeting here](https://bertrandrussellsociety.org/annual-meeting-registration/).
 
