@@ -21,7 +21,11 @@ The workshop schedule and invited speakers are below. Those interested in partic
 - [Graham Stevens](https://research.manchester.ac.uk/en/persons/graham.p.stevens)
 - [Russell Wahl](https://idahostate.academia.edu/RussellWahl/CurriculumVitae)
 
-
+| *Room TBA* | Tues. 9 June | Wed. 10 June | Thurs. 11 June |
+|----------- | -----------  | -----------  | -----------    |
+| 8:30  am   | Wahl         | Linksy       | Klement        |
+| 9:30  am   | Stevens      | Levine       | Felappi        |
+| 10:30 am   | Maclean      | Landini      | Elkind         |
 
 ## Call for Contributed Papers
 
