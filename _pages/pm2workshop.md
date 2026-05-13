@@ -1,6 +1,6 @@
 ---
 permalink: /pm2workshop/
-title: "Principia Mathematica in Its Century"
+title: "*Principia Mathematica*'s Second Edition in Its Century, 1925-2025"
 excerpt: 
 author_profile: false
 redirect_from: 
@@ -21,10 +21,14 @@ The workshop schedule and invited speakers are below. Those interested in partic
 - [Graham Stevens](https://research.manchester.ac.uk/en/persons/graham.p.stevens)
 - [Russell Wahl](https://idahostate.academia.edu/RussellWahl/CurriculumVitae)
 
+
+
 ## Call for Contributed Papers
+
+*More details soon!*
 
 ## Support
 
-The Principia Mathematica Maps and Table Site (PM-MATS) project has been made possible in part by a major grant from the National Endowment for the Humanities. Any views, findings, conclusions, or recommendations expressed in this publication do not necessarily reflect those of the National Endowment for the Humanities.
+The Principia Mathematica's Second Edition in Its Century, 1925-2025 workshop has been made possible in part by a major grant from the National Endowment for the Humanities (Collaborative Research, [RZ-206663-26](https://awardsearch.neh.gov/AwardDetail.aspx?gn=RZ-306663-26)). Any views, findings, conclusions, or recommendations expressed in this publication do not necessarily reflect those of the National Endowment for the Humanities.
 
-The PM-MATS project is also supported Western Kentucky University and the University of Iowa. We are grateful for their support.
+The PM-MATS project is also supported Western Kentucky University and McMaster University. We are grateful for their support.
