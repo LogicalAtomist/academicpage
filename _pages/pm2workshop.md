@@ -11,15 +11,15 @@ The workshop schedule and invited speakers are below. Those interested in partic
 
 ## Invited Speakers and Schedule
 
-- Landon D. C. Elkind (organizer)
-- Giulia Felappi
-- Kevin Klement
-- Gregory Landini
-- James Levine
-- Bernard Linsky
-- Gülberk Koç Maclean
-- Graham Stevens
-- Russell Wahl
+- [Landon D. C. Elkind](https://landondcelkind.com/) (organizer)
+- [Giulia Felappi](https://www.southampton.ac.uk/people/5xgp9d/doctor-giulia-felappi)
+- [Kevin Klement](https://people.umass.edu/klement/)
+- [Gregory Landini](https://philosophy.uiowa.edu/people/gregory-landini)
+- [James Levine](https://www.tcd.ie/research/profiles/?profile=jlevine)
+- [Bernard Linsky](https://sites.ualberta.ca/~blinsky/blinsky.html)
+- [Gülberk Koç Maclean](https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Arts/Departments/Humanities/Faculty/GulberkKocMaclean.htm)
+- [Graham Stevens](https://research.manchester.ac.uk/en/persons/graham.p.stevens)
+- [Russell Wahl](https://idahostate.academia.edu/RussellWahl/CurriculumVitae)
 
 ## Call for Contributed Papers
 
