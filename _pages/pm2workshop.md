@@ -21,7 +21,7 @@ The workshop schedule and invited speakers are below. To participate in the PM2 
 - [Graham Stevens](https://research.manchester.ac.uk/en/persons/graham.p.stevens)
 - [Russell Wahl](https://idahostate.academia.edu/RussellWahl/CurriculumVitae)
 
-**Mon. 8 June**: Welcome receiption
+**Mon. 8 June**: Time is set aside for informal discussions or work in the Bertrand Russell Archives ("Archives time") on Monday through Thursday during the workshop. There is also a welcome reception on Monday.
 
 | *Room TBA* | Tues. 9 June     | Wed. 10 June    | Thurs. 11 June  |
 |----------- | -----------      | -----------     | -----------     |
@@ -29,7 +29,7 @@ The workshop schedule and invited speakers are below. To participate in the PM2 
 | 9:30  am   | Stevens          | Levine          | Felappi         |
 | 10:30 am   | Maclean          | Landini         | Elkind          |
 | 10:30 am   | *Lunch*          | *Lunch*         | *Lunch*         |
-| 1-4 pm     | *Archives times* | *Archives time* | *Archives time* |
+| 1-4 pm     | *Archives time*  | *Archives time* | *Archives time* |
 
 **Closing, Thurs. 11 June**: There will be a reception to close the PM2 workshop and also to open the [2026 Bertrand Russell Society Meeting](https://bertrandrussellsociety.org/2026-brs-annual-meeting-abstracts/) happening immediately after the workshop. [Register for that meeting here](https://bertrandrussellsociety.org/annual-meeting-registration/).
 
