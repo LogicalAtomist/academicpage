@@ -30,7 +30,7 @@ The workshop schedule and invited speakers are below. Those interested in partic
 | 10:30 am   | Maclean       | Landini       | Elkind         |
 | 1-4 pm     | Archival time | Archival time | Archival time  |
 
-**Closing, Thurs. 11 June**: There will be a reception to close the PM2 workshop and also to open the (2026 Bertrand Russell Society Meeting)[https://bertrandrussellsociety.org/2026-brs-annual-meeting-abstracts/] happening immediately after the workshop. (Register for that meeting here)[https://bertrandrussellsociety.org/annual-meeting-registration/].
+**Closing, Thurs. 11 June**: There will be a reception to close the PM2 workshop and also to open the [2026 Bertrand Russell Society Meeting](https://bertrandrussellsociety.org/2026-brs-annual-meeting-abstracts/) happening immediately after the workshop. [Register for that meeting here](https://bertrandrussellsociety.org/annual-meeting-registration/).
 
 ## Call for Contributed Papers
 
