@@ -22,14 +22,14 @@ The workshop schedule and invited speakers are below. To participate in the PM2 
 - [Graham Stevens](https://research.manchester.ac.uk/en/persons/graham.p.stevens)
 - [Russell Wahl](https://idahostate.academia.edu/RussellWahl/CurriculumVitae)
 
-**Mon. 8 June**: Time is set aside for informal discussions or work in the Bertrand Russell Archives ("Archives time") on Monday through Thursday during the workshop. There is also a welcome reception on Monday.
+**Mon. 8 June**: Time is set aside for informal discussions or work in the [Bertrand Russell Archives](https://www.google.com/maps/place/Bertrand+Russell+Centre/@43.2623707,-79.9168213,19z/data=!3m1!5s0x882c9b52ff046d3b:0x3ee4940d2648ec43!4m14!1m7!3m6!1s0x882c9b530109b229:0x8755d705f0932705!2sL.R.+Wilson+Hall!8m2!3d43.262108!4d-79.9170493!16s%2Fg%2F11c4b369w0!3m5!1s0x882c9b0aa2b405e3:0xef6f12b883255b82!8m2!3d43.2625665!4d-79.9154861!16s%2Fg%2F11g1k53tfp?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D) ("Archives time") on Monday through Thursday during the workshop. There is also a welcome reception on Monday.
 
-| *Room TBA* | Tues. 9 June     | Wed. 10 June    | Thurs. 11 June   |
+| [L. R. Wilson Hall](https://www.google.com/maps/place/L.R.+Wilson+Hall/@43.2623707,-79.9168213,19z/data=!4m6!3m5!1s0x882c9b530109b229:0x8755d705f0932705!8m2!3d43.262108!4d-79.9170493!16s%2Fg%2F11c4b369w0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D) | Tues. 9 June, Room 1057     | Wed. 10 June, Room 2001   | Thurs. 11 June, Room 1057   |
 |----------- | -----------      | -----------     | -----------      |
-| 8:30  am   | Wahl             | Linsky          | Klement          |
-| 9:30  am   | Stevens          | Levine          | Felappi          |
-| 10:30 am   | Maclean          | Landini         | Ratti            |
-| 11:30-1    | *Lunch*          | *Lunch*         | Elkind + *Lunch* |
+| 9  am   | Wahl             | Linsky          | Klement          |
+| 10  am   | Stevens          | Levine          | Felappi          |
+| 11 am   | Maclean          | Landini         | Ratti            |
+| 12-1    | *Lunch*          | *Lunch*         | Elkind + *Lunch* |
 | 1-4 pm     | *Archives time*  | *Archives time* | *Archives time*  |
 
 **Closing, Thurs. 11 June**: There will be a reception to close the PM2 workshop and also to open the [2026 Bertrand Russell Society Meeting](https://bertrandrussellsociety.org/2026-brs-annual-meeting-abstracts/) happening immediately after the workshop. [Register for that meeting here](https://bertrandrussellsociety.org/annual-meeting-registration/).
