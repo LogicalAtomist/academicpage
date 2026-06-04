@@ -5,6 +5,8 @@ excerpt:
 author_profile: false
 redirect_from: 
 ---
+*Principia Mathematica* was and remains a fixture of ongoing discussions in logic, philosophy of language, philosophy of mathematics, metaphysics, and early analytic philosophy. The second edition of *Principia*, however, received a lukewarm reception and its significance, both for understanding *Principia*’s first edition and for later developments in early analytic philosophy, have not been fully explored. This workshop convenes scholars to further explore developments between the editions of *Principia* and the impact of the second edition itself on 20th century philosophy.
+
 This June 8-11, 2026, alongside [Alexander Klein](http://www.alexk.org/) at the Bertrand Russell Research Centre, I am organizing a workshop around *Principia Mathematica* by Alfred North Whitehead and Bertrand Russell. This will mark 100 years since the second edition of *Principia* was published (Vol. I 1925, Vols. II-III 1927). The second edition was chiefly Russell's project, though many personalities surrounded the labor (e.g. Dorothy Wrinch, Ludwig Wittgenstein, Frank Ramsey, Leon Chwistek, and Rudolf Carnap).
 
 The workshop schedule and invited speakers are below. To participate in the PM2 workshop as a discussant, [register in advance here](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=8rznMdj6bEeKJE5fMzFc-5UoymnNRU1Gtn8SdniGXGFUNFg1MVhZTFhFSUxESkJZTlI5MFNPREZBWC4u).
