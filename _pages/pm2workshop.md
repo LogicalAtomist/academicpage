@@ -47,7 +47,7 @@ We invite contributed papers on Principia Mathematica and its second edition, br
 5. Applications of interactive theorem provers to Principia's theorems and proofs are especially welcome.
 6. Contributions utilizing the PM-MATS digital resource are especially welcome. Read more about this resource here: https://principia.lib.uiowa.edu/about.html
 
-Absent alternative arragnements, papers are due no later than December 14, 2026. Expressing interest in submitting a contribution is strongly encouraged by October 15, 2026. Papers should be at least 5,000 words and no more than 15,000. Papers should be anonymized for blind review and submitted with a cover page indicating the author's name, affiliation, email, paper title, and abstract to Landon Elkind, landon.elkind@wku.edu, with the subject line PM2 Paper Submission.  
+Absent alternative arrangements, papers are due no later than December 14, 2026. Expressing interest in submitting a contribution is strongly encouraged by October 15, 2026. Papers should be at least 5,000 words and no more than 15,000. Papers should be anonymized for blind review and submitted with a cover page indicating the author's name, affiliation, email, paper title, and abstract to Landon Elkind, landon.elkind@wku.edu, with the subject line PM2 Paper Submission.  
 
 TeX format is encouraged for contributions, but Word formats are also acceptable. Typesetting of equations using the principia package (for TeX users: https://ctan.org/pkg/principia) or the PMifier (for Word users: https://principia.lib.uiowa.edu/pmifier/index.html) is strongly encouraged. 
 
