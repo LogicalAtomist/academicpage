@@ -7,14 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Howdy! I am Western Kentucky University's resident logical atomist, and an [Associate Professor of Philosophy](https://www.wku.edu/political-science/staff/landon_elkind) in the [Department of Political Science](https://www.wku.edu/political-science/). Here is [a link to my CV](https://ln4.sync.com/dl/de4dc01c0/ikzwbf4p-x68zj744-j8n2x49p-dn3ux3de). Most of my current research focuses on the [*Principia* Rewrite project](https://www.principiarewrite.com/), which you can learn more about on my research page. You can contact me through the email listed on my departmental page.
+Howdy! I am Western Kentucky University's resident logical atomist, and an [Associate Professor of Philosophy](https://www.wku.edu/political-science/staff/landon_elkind) in the [Department of Political Science](https://www.wku.edu/political-science/). Here is [a link to my CV](https://ln4.sync.com/dl/de4dc01c0/ikzwbf4p-x68zj744-j8n2x49p-dn3ux3de). Most of my current research focuses on the [*Principia* Rewrite project](https://principia-rewrite.org/), which you can learn more about on my research page. You can contact me through the email listed on my departmental page.
 
 In true Texan fashion, I started in philosophy while in a car, reading Plato’s Republic on a road trip to Houston in junior high. Later, as a college freshman at [George Washington University](https://philosophy.columbian.gwu.edu/), I took symbolic logic and fell in love with the subject. One thing led to another, and in 2018, I got a PhD in Philosophy and an MS in Mathematics from the [University of Iowa](https://clas.uiowa.edu/philosophy/).
-
-## Upcoming Conferences and Talks
-* [2025 APA Central Division Colloquium](https://www.apaonline.org/mpage/2025central#): "On the Contrary: Revisiting Incompatibility Theories"
-* [2025 Kentucky Philosophical Association Meeting](https://philevents.org/event/show/130450) (at Northern Kentucky University)
-* [2025 Bertrand Russell Society Meeting](https://bertrandrussellsociety.org/submissions/) (hosting at Western Kentucky University)
 
 ## Areas of Research Specialization
 * History of analytic philosophy
