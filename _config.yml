@@ -23,10 +23,10 @@ repository               : "LogicalAtomist/academicpage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WebPhotoRotated.jpg"
+  avatar           : "WebPhotoCropped.jpg"
   name             : "Landon D. C. Elkind"
-  pronouns         : "Photo credit: Kris Notaro, 2026" 
   bio              : "Kentucky's resident logical atomist"
+  pronouns         : "Photo credit: Kris Notaro, 2026" 
   location         : "Bowling Green, Kentucky, U.S.A."
   employer         : "Western Kentucky University"
   uri              : "https://principia-rewrite.org/"
